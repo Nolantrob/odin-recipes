@@ -1,0 +1,40 @@
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: orange;
+    color:white;
+    text-align: center;
+}
+
+* {
+    font-family:'Courier New', Courier, monospace
+}
+
+#pancakeimg {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    font-weight: bolder;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h3 {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+ul > li {
+    background-color: pink;
+}
+
+ol > li {
+    background-color: rgb(255, 255, 167);
+}
+
+ol >li >strong {
+    background-color: black;
+    color:white;
+}
